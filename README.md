@@ -1,5 +1,5 @@
 # C-language
-**Simple syntax for writing a progrma in C language**
+**Simple syntax for writing a program in C language**
 
 #include <stdio.h>
 int main()
